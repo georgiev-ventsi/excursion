@@ -1,0 +1,13 @@
+html{
+    background-color: black;
+    text-align: center;
+}
+
+nav{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+    
+}
