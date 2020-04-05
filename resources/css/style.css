@@ -8,21 +8,25 @@ header{
     font-weight: normal;
     font-size: 50px;
     color: white;
-    text-align: center;
 
 }
 
-ul li a{
+p a{
     text-decoration: underline;
     color: aquamarine;
     font-size: 26px;
-    text-align: center;
 }
 
 
 #second-title{
-    color: white;
+ color: white;
  font-family: Verdana, Geneva, Tahoma, sans-serif;
  font-weight: 300px;
  font-size: 32px;   
+}
+
+#grey-title{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 21px;
+    color: gray;
 }
