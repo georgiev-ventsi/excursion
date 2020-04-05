@@ -3,11 +3,23 @@ html{
     text-align: center;
 }
 
-nav{
+header{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: normal;
     font-size: 50px;
     color: white;
     text-align: center;
-    
+
+}
+
+ul li a{
+    text-decoration: underline;
+    color: aquamarine;
+    font-size: 26px;
+
+}
+
+#video{
+    height: 100%;
+    width: auto;
 }
